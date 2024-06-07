@@ -40,5 +40,6 @@ public class JUnit5CodeExampleAvailable {
                 $("#second").should(visible).click();
                 }
                 }"""));
+        // тестовый коммент
     }
 }
